@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Employee>
+    <Name>Test1</Name>
+    <Age>28</Age>
+    <Salary>25000</Salary>
+  </Employee>
+  <Employee>
+    <Name>Test2</Name>
+    <Age>29</Age>
+    <Salary>85000</Salary>
+  </Employee>
+  <Employee>
+    <Name>Dhruti</Name>
+    <Age>65</Age>
+    <Salary>4564</Salary>
+  </Employee>
+</Employees>
